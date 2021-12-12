@@ -28,7 +28,7 @@ mailto:samxtasnim@gmail.com)
 
 <details>
   <summary>Check out my Github Stats and most used tech</summary>
-  <br></br>
-<a href="https://samiha-tasnim.vercel.app/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=samihaTasnim&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihatasnim&hide=html&hide_title=true&hide_border=true&layout=compact&theme=github_dark"/></a>
+  \
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=samihaTasnim&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihatasnim&hide=html&hide_title=true&hide_border=true&layout=compact&theme=github_dark"/>
 
 </details>
