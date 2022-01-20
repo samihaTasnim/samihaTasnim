@@ -3,8 +3,6 @@
 ### About me
 Hi, I'm sam, a Full stack web developer and open source enthusiast. Feel free to contact me for collaboration/part-time MERN stack opportunities. Email me or dm me in discord for faster response. Have a great day!
 
-![](https://komarev.com/ghpvc/?username=samihaTasnim&style=plastic&color=228CDE)
-
 ### Contact me
 [![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:samxtasnim@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discords.com/bio/p/samthedev)
@@ -37,3 +35,5 @@ Hi, I'm sam, a Full stack web developer and open source enthusiast. Feel free to
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=samihaTasnim&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihatasnim&hide_title=true&hide_border=true&layout=compact&theme=dark&show_icons=true"/>
 
 </details>
+
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FsamihaTasnim)
