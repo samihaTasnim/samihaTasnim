@@ -36,4 +36,4 @@ Hi, I'm sam, a Full stack web developer and open source enthusiast. Feel free to
 
 </details>
 
-![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FsamihaTasnim)
+![Profile visits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FsamihaTasnim)
