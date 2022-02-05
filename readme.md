@@ -1,8 +1,6 @@
-[![Banner](https://raw.githubusercontent.com/samihaTasnim/samihaTasnim/master/Profile-header.gif)](https://samiha-tasnim.is-a.dev/)
-
 ### About me
 
-Hi, I'm sam, a Full stack web developer and open source enthusiast. Feel free to contact me for collaboration/part-time MERN stack opportunities. Email me or dm me in discord for faster response. Have a great day!
+Hello, I'm sam, a Full stack web developer. I'm learning C and SEO, as well as getting involved in open source, hackathons, and [blogging](https://samihatasnim.hashnode.dev). Feel free to contact me for collaboration/part-time MERN stack opportunities. Email me for faster response. Have a great day!
 
 ### Contact me
 
@@ -10,6 +8,7 @@ Hi, I'm sam, a Full stack web developer and open source enthusiast. Feel free to
 [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discords.com/bio/p/samthedev)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/SamihaTasnimm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/samiha-tasnim/)
+[![Polywork](https://img.shields.io/badge/Polywork-000?logo=polywork)](https://poly.work/samihatasnim)
 
 ### Languages
 
@@ -31,12 +30,12 @@ Hi, I'm sam, a Full stack web developer and open source enthusiast. Feel free to
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🦠%20PhotoScape-000)](https://github.com/samihaTasnim/photoScape)
+[![](https://img.shields.io/badge/-📷%20PhotoScape-000)](https://github.com/samihaTasnim/photoScape)
 [![](https://img.shields.io/badge/-🛒%20Ema%20John-000)](https://github.com/samihaTasnim/ema-john)
 
 <details>
   <summary>Check out my GitHub Stats and most used tech :rocket:</summary>
   
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=samihaTasnim&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihatasnim&hide_title=true&hide_border=true&layout=compact&theme=dark&show_icons=true"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=samihaTasnim&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark" /><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samihatasnim&hide_title=true&hide_border=true&layout=compact&theme=dark&show_icons=true"/>
 
 </details>
