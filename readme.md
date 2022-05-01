@@ -1,11 +1,11 @@
 ### About me
 
-Hello, I'm sam, a Full stack web developer. I'm learning C and SEO, as well as getting involved in open source, hackathons, and [blogging](https://samihatasnim.hashnode.dev). Feel free to contact me for collaboration/part-time MERN stack opportunities. Email me for faster response. Have a great day!
+Hello, I'm sam, a Full stack web developer. I'm getting involved in open source, hackathons, and [blogging](https://samihatasnim.hashnode.dev). Feel free to contact me for collaboration/part-time MERN stack opportunities. Email me for faster response. Have a great day!
 
 ### Contact me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:samxtasnim@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discords.com/bio/p/samthedev)
+<!-- [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discords.com/bio/p/samthedev) -->
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/SamihaTasnimm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/samiha-tasnim/)
 [![Polywork](https://img.shields.io/badge/Polywork-000?logo=polywork)](https://poly.work/samihatasnim)
@@ -15,7 +15,7 @@ Hello, I'm sam, a Full stack web developer. I'm learning C and SEO, as well as g
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![HTML](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
 ### Technologies and frameworks
 
