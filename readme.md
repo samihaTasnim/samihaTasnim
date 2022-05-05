@@ -4,8 +4,7 @@ Hello, I'm sam, a Full stack web developer. I'm getting involved in open source,
 
 ### Contact me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-000?logo=gmail)](mailto:samxtasnim@gmail.com)
-<!-- [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord)](https://discords.com/bio/p/samthedev) -->
+[![Email](https://img.shields.io/badge/-Email-000?logo=protonmail)](mailto:samihatasnim@pm.me)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/SamihaTasnimm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/samiha-tasnim/)
 [![Polywork](https://img.shields.io/badge/Polywork-000?logo=polywork)](https://poly.work/samihatasnim)
