@@ -1,6 +1,6 @@
 ### About me
 
-Hello, I'm sam, a Full stack web developer and a high school student (not for long though, I'm graduating soon!). I'm familiar with MERN stack but I can pick up any new language or framework pretty quick. Feel free to contact me for collaboration, hackathons or part-time opportunities. Email me for faster response. Have a great day!
+Hello, I'm sam. I'm studying computer science and engineering at PSTU. Previously, I worked as a MERN stack intern and full-time front-end developer. I'm currently learning C language and want to do competitive programming. Feel free to contact me for collaboration, hackathons, teaming up, or part-time opportunities. Email me for a faster response. Have a great day!
 
 ### Contact me
 
@@ -8,3 +8,4 @@ Hello, I'm sam, a Full stack web developer and a high school student (not for lo
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/SamihaTasnimm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/samiha-tasnim/)
 [![Polywork](https://img.shields.io/badge/Polywork-000?logo=polywork)](https://poly.work/samihatasnim)
+[![Telegram](https://img.shields.io/badge/Telegram-000?logo=telegram)](https://t.me/samihat)
