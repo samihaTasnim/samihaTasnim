@@ -1,6 +1,6 @@
 ### About me
 
-Hello, I'm sam. I'm studying computer science and engineering at IUS. I'm manager of tech at an ed-tech company. Previously, I worked as a MERN stack intern and full-time front-end developer. I'm learning how to generate ideas that make money interested in competitive programming. Feel free to contact me for collaboration, hackathons, teaming up, or part-time opportunities. Email me for a faster response. Have a great day!
+Hello, I'm sam. I'm studying computer science and engineering at IUS. I'm manager of tech at an ed-tech company. Previously, I worked as a MERN stack intern and full-time front-end developer. I'm learning how to generate ideas that make money. Feel free to contact me for collaboration, hackathons, teaming up, or part-time opportunities. Email me for a faster response. Have a great day!
 
 ### Contact me
 
